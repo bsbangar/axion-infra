@@ -1,0 +1,10 @@
+variable "rgs" {}
+variable "vnets" {}
+variable "subnets" {}
+variable "nics" {}
+variable "pips" {}
+variable "nsgs" {}
+variable "nsg_rules" {}
+variable "subnet_nsg_associations" {}
+variable "vms" {}
+variable "bastion" {}
